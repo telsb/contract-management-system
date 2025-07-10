@@ -1,0 +1,5 @@
+{
+  "name": "Aboitiz InfraCapital Contract Management System",
+  "description": "A web application to manage and view contracts stored in Google Sheets and Google Drive, with separate access for users and administrators.",
+  "requestFramePermissions": []
+}
